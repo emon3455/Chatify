@@ -1,8 +1,11 @@
+import Login from "./Pages/Login"
+import "./style.scss"
+
 function App() {
 
   return (
     <>
-      <h2>App</h2>
+      <Login></Login>
     </>
   )
 }
