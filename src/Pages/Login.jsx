@@ -13,7 +13,7 @@ const Login = () => {
                     <button type="submit">Sign In</button>
                 </form>
 
-                <p> Don't Have an Account ? <span>Register</span></p>
+                <p> Dont Have an Account ? <span>Register</span></p>
 
             </div>
             
